@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Manas.
-- 👀 I’m interested in Programming and also love to play football.
-- 🌱 I’m currently learning Information Technology from IIIT Allahabad, Prayagraj.
-- 💞️ I’m looking to collaborate on projects I specialize in.
+# 👋 Hi, I’m Manas. I'm a Web Developer.
+## Connect with me :
+- **Linkedin :** [Click Here](https://linkedin.com/in/holaaa-manas)
+- **Twitter :** [CLick Here](https://twitter.com/codewithmanas)
 <!-- - 📫 How to reach me ... -->
 
 <!---

@@ -37,7 +37,7 @@ Here are some of my notable projects:
 
 ### 📫 Get in Touch
 
-- **Email**: [manas@example.com](mailto:manas865873@example.com)
+- **Email**: [manas865873@example.com](mailto:manas865873@example.com)
 - **LinkedIn**: [Manas's LinkedIn Profile](https://www.linkedin.com/in/manasranjan96/)
 - **Twitter**: [@codewithmanas](https://twitter.com/codewithmanas)
 
